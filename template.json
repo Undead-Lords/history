@@ -1,0 +1,15 @@
+{ 
+ "eventName": "", //required: event title
+ "eventType": "", //required: Event (generic), Knighting, Squiring, Fallen, Battle, Milestone or Epoch; used to select iconography
+ "eventStartDate": "", //required: event date, format (mm-dd-yyyy)
+ "eventEndDate": "", //(optional) for epochs, format (mm-dd-yyyy)
+ "eventShortDescription": "", //required short blurb for front page (not HTML friendly)
+ "eventLongDescription": "", //(optional) long blurb for detailed view (HTML friendly)
+ "eventURL": "", //(optional) url for additional information on event
+ "associatedKnights": [
+     ""
+ ], //(optional) associated individuals with the event, only supports Knights
+ "associatedGames": [
+     ""
+ ] //(optional) associated game(s) for the event, traditionally one game per event. to help filter down events eventually to a game
+}  
