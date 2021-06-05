@@ -1,0 +1,17 @@
+{ 
+ "eventName": "Knighting of Lord Sojourner", //required: event title
+ "eventType": "Knighting", //required: Event (generic), Knighting, Squiring, Fallen, Battle, Milestone or Epoch; used to select iconography
+ "eventStartDate": "04-13-2019", //required: event date, format (mm-dd-yyyy)
+ "eventEndDate": "", //(optional) for epochs, format (mm-dd-yyyy)
+ "eventShortDescription": "", //required short blurb for front page (not HTML friendly)
+ "eventLongDescription": "", //(optional) long blurb for detailed view (HTML friendly)
+ "eventURL": "", //(optional) url for additional information on event
+ "associatedKnights": [
+     "Barricuda",
+     "Sojourner",
+     "Spawl"
+ ], //(optional) associated individuals with the event, only supports Knights
+ "associatedGames": [
+     "Albion Online"
+ ] //(optional) associated game(s) for the event, traditionally one game per event. to help filter down events eventually to a game
+} 
