@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Kick", 
+ "eventType": "Knighting", 
+ "eventStartDate": "09-01-2010", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted September 2010 in Darkfall", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Kick"
+ ], 
+ "associatedGames": [
+     "Darkfall"
+ ] 
+}  

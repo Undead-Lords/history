@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Izmak", 
+ "eventType": "Knighting", 
+ "eventStartDate": "08-01-2013", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted August 2013 in Darkfall Unholy Wars", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Izmak"
+ ], 
+ "associatedGames": [
+     "Darkfall Unholy Wars"
+ ] 
+}  

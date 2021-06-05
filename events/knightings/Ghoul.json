@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Ghoul", 
+ "eventType": "Knighting", 
+ "eventStartDate": "11-01-1998", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted November 1998 in Ultima Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Ghoul"
+ ], 
+ "associatedGames": [
+     "Ultima Online"
+ ] 
+}  

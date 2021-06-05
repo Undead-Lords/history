@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord MacDareth", 
+ "eventType": "Knighting", 
+ "eventStartDate": "02-01-2015", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted February 2015 in Archeage", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "MacDareth"
+ ], 
+ "associatedGames": [
+     "Archeage"
+ ] 
+}  

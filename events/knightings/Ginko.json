@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Ginko", 
+ "eventType": "Knighting", 
+ "eventStartDate": "09-01-2011", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted September 2011 in Darkfall", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Ginko"
+ ], 
+ "associatedGames": [
+     "Darkfall"
+ ] 
+}  

@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Azane", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2016", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 2016 in Albion Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Azane"
+ ], 
+ "associatedGames": [
+     "Albion Online"
+ ] 
+}  

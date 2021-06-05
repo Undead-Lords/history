@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Skunk", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-1998", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 1998 in Ultima Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Skunk"
+ ], 
+ "associatedGames": [
+     "Ultima Online"
+ ] 
+}  

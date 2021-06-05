@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Gannonthorpe", 
+ "eventType": "Knighting", 
+ "eventStartDate": "10-01-2008", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted October 2008 in Warhammer Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Gannonthorpe"
+ ], 
+ "associatedGames": [
+     "Warhammer Online"
+ ] 
+}  

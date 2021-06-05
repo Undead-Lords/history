@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Glimmer", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-1998", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 1998 in Ultima Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Glimmer"
+ ], 
+ "associatedGames": [
+     "Ultima Online"
+ ] 
+}  

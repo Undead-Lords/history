@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Zers", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2005", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 2005 in World of Warcraft", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Zers"
+ ], 
+ "associatedGames": [
+     "World of Warcraft"
+ ] 
+}  

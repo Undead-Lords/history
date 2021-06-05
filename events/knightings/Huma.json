@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Huma", 
+ "eventType": "Knighting", 
+ "eventStartDate": "02-01-2012", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted February 2012 in Star Wars: The Old Republic", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Huma"
+ ], 
+ "associatedGames": [
+     "Star Wars: The Old Republic"
+ ] 
+}  

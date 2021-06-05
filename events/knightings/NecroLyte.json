@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord NecroLyte", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2008", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 2005 in World of Warcraft", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "NecroLyte"
+ ], 
+ "associatedGames": [
+     "World of Warcraft"
+ ] 
+}  

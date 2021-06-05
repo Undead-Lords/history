@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Soupee", 
+ "eventType": "Knighting", 
+ "eventStartDate": "09-01-2000", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted August 2000 in Ultima Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Soupee"
+ ], 
+ "associatedGames": [
+     "Ultima Online"
+ ] 
+}  

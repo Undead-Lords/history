@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Terror", 
+ "eventType": "Knighting", 
+ "eventStartDate": "06-01-1995", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted June 1995 in Neverwinter Nights", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Terror"
+ ], 
+ "associatedGames": [
+     "Neverwinter Nights"
+ ] 
+}  

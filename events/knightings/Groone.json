@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Groone", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-1995", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 1995 in Neverwinter Nights", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Groone"
+ ], 
+ "associatedGames": [
+     "Neverwinter Nights"
+ ] 
+}  

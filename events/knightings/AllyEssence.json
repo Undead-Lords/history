@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lady AllyEssence", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2016", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted January 2016 in Archeage", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "AllyEssence"
+ ], 
+ "associatedGames": [
+     "Archeage"
+ ] 
+}  

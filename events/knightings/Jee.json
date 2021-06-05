@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Jee", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2004", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 2004 in Leisure Suit Larry", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Jee"
+ ], 
+ "associatedGames": [
+     "Leisure Suit Larry"
+ ] 
+}  

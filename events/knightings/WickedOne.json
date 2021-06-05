@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Wicked One", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-1998", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 1998 in Ultima Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Wicked One"
+ ], 
+ "associatedGames": [
+     "Ultima Online"
+ ] 
+}  

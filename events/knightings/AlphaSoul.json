@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord AlphaSoul", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2003", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 2003 in Shadowbane", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "AlphaSoul"
+ ], 
+ "associatedGames": [
+     "Shadowbane"
+ ] 
+}  

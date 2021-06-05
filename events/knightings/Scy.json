@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Scy", 
+ "eventType": "Knighting", 
+ "eventStartDate": "09-01-1995", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted September 1995 in Neverwinter Nights", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Scy"
+ ], 
+ "associatedGames": [
+     "Neverwinter Nights"
+ ] 
+}  

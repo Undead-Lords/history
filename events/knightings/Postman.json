@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Postman", 
+ "eventType": "Knighting", 
+ "eventStartDate": "12-01-2012", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted December 2012 in Guild Wars 2", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Postman"
+ ], 
+ "associatedGames": [
+     "Guild Wars 2"
+ ] 
+}  

@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Ike", 
+ "eventType": "Knighting", 
+ "eventStartDate": "05-01-2018", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted May 2018 in Albion Online", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Ike"
+ ], 
+ "associatedGames": [
+     "Albion Online"
+ ] 
+}  

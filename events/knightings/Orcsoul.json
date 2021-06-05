@@ -1,0 +1,15 @@
+{ 
+ "eventName": "Knighting of Lord Orcsoul", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-1996", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 1996 in Neverwinter Nights", 
+ "eventLongDescription": "", 
+ "eventURL": "", 
+ "associatedKnights": [
+     "Orcsoul"
+ ], 
+ "associatedGames": [
+     "Neverwinter Nights"
+ ] 
+}  

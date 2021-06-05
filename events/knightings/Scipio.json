@@ -1,13 +1,13 @@
 { 
- "eventName": "Knighting of Lord Scree", 
+ "eventName": "Knighting of Lord Scipio", 
  "eventType": "Knighting", 
- "eventStartDate": "04-11-2021", 
+ "eventStartDate": "11-01-2018", 
  "eventEndDate": "", 
- "eventShortDescription": "", 
+ "eventShortDescription": "Knighted November 2018 in Crowfall", 
  "eventLongDescription": "", 
  "eventURL": "", 
  "associatedKnights": [
-     "Scree"
+     "Scipio"
  ], 
  "associatedGames": [
      "Crowfall"
