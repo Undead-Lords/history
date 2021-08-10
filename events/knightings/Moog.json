@@ -1,13 +1,13 @@
 { 
- "eventName": "Knighting of Lord Rodcet (Arkay)", 
+ "eventName": "Knighting of Lord Moog", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-1998", 
+ "eventStartDate": "01-01-2002", 
  "eventEndDate": "", 
- "eventShortDescription": "Knighted 1998 in Ultima Online", 
+ "eventShortDescription": "Knighted January 2002 in Ultima Online", 
  "eventLongDescription": "", 
  "eventURL": "", 
  "associatedKnights": [
-     "Rodcet (Arkay)"
+     "Moog"
  ], 
  "associatedGames": [
      "Ultima Online"
