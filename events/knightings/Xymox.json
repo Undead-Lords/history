@@ -3,9 +3,8 @@
  "eventType": "Knighting", 
  "eventStartDate": "01-01-1997", 
  "eventEndDate": "", 
- "eventShortDescription": "Knighted 1997 in Ultima Online", 
- "eventLongDescription": "", 
- "eventURL": "", 
+ "eventShortDescription": "Knighted 1997 in Ultima Online", 
+ "eventLongDescription": "",  
  "associatedKnights": [
      "Xymox"
  ], 

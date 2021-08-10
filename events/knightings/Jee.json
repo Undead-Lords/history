@@ -3,9 +3,8 @@
  "eventType": "Knighting", 
  "eventStartDate": "01-01-2004", 
  "eventEndDate": "", 
- "eventShortDescription": "Knighted 2004 in Leisure Suit Larry", 
- "eventLongDescription": "", 
- "eventURL": "", 
+ "eventShortDescription": "Knighted 2004 in Leisure Suit Larry", 
+ "eventLongDescription": "",  
  "associatedKnights": [
      "Jee"
  ], 
