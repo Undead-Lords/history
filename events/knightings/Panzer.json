@@ -1,12 +1,12 @@
 { 
- "eventName": "Knighting of Lord Panzers", 
+ "eventName": "Knighting of Lord Panzer", 
  "eventType": "Knighting", 
  "eventStartDate": "05-01-2012", 
  "eventEndDate": "", 
  "eventShortDescription": "Knighted May 2012 in Star Wars: The Old Republic", 
  "eventLongDescription": "", 
  "associatedKnights": [
-     "Panzers"
+     "Panzer"
  ], 
  "associatedGames": [
      "Star Wars: The Old Republic"

@@ -1,0 +1,14 @@
+{ 
+ "eventName": "Knighting of Lord Whosdad", 
+ "eventType": "Knighting", 
+ "eventStartDate": "01-01-2028", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted 2024 in Star Citizen", 
+ "eventLongDescription": "Testing Event for Upcoming Events Timeline", 
+ "associatedKnights": [
+     "Whosdad"
+ ], 
+ "associatedGames": [
+     "Star Citizen"
+ ] 
+}  
