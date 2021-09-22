@@ -1,0 +1,12 @@
+{ 
+ "eventName": "Knighting of Lord Van Zant", 
+ "eventType": "Knighting", 
+ "eventStartDate": "08-01-2021", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted August 2021 in Crowfall", 
+ "eventLongDescription": "", 
+ "associatedKnights": [], 
+ "associatedGames": [
+     "Crowfall"
+ ] 
+}  
