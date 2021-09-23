@@ -1,0 +1,14 @@
+{ 
+ "eventName": "Knighting of Lord Takeshima", 
+ "eventType": "Knighting", 
+ "eventStartDate": "04-11-2021", 
+ "eventEndDate": "", 
+ "eventShortDescription": "Knighted April 2021 in Crowfall", 
+ "eventLongDescription": "", 
+ "associatedKnights": [
+     "Takeshima"
+ ], 
+ "associatedGames": [
+     "Crowfall"
+ ] 
+}  
