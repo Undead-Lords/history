@@ -1,12 +1,12 @@
 { 
- "eventName": "Knighting of Lord Haedalis", 
+ "eventName": "Knighting of Lord Ha'er'Dalis", 
  "eventType": "Knighting", 
  "eventStartDate": "01-01-2004", 
  "eventEndDate": "", 
  "eventShortDescription": "Knighted 2004 in Shadowbane", 
  "eventLongDescription": "", 
  "associatedKnights": [
-     "Haedalis"
+     "HaerDalis"
  ], 
  "associatedGames": [
      "Shadowbane"
