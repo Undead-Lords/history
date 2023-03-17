@@ -23,7 +23,7 @@ function collectIds(filePath) {
   try {
     jsonObject = JSON.parse(data);
   } catch (e) {
-    console.error(`Error parsing JSON file: ${filePath}`);
+    console.error(`Error parsing JSON file: ${filePath}: ${e}`);
     return;
   }
 
@@ -38,7 +38,7 @@ function updateJsonFile(filePath) {
   try {
     jsonObject = JSON.parse(data);
   } catch (e) {
-    console.error(`Error parsing JSON file: ${filePath}`);
+    console.error(`Error parsing JSON file: ${filePath}: ${e}`);
     return;
   }
 
