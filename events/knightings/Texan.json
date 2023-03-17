@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Texan", 
  "eventType": "Knighting", 
- "eventStartDate": "05-01-2018", 
- "eventEndDate": "", 
+ "eventDate": "05-01-2018", 
  "eventShortDescription": "Knighted May 2018 in Albion Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Texan"
- ], 
- "associatedGames": [
-     "Albion Online"
- ] 
+ "eventLongDescription": ""
 }  

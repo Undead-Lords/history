@@ -1,0 +1,33 @@
+name: Update JSON IDs
+
+on:
+  push:
+    branches:
+      - main # Change this to the branch you want to monitor
+
+jobs:
+  update-json-ids:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: 16
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Update JSON IDs
+      run: node update_json_ids.js
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add -A
+        git commit -m "Updated JSON files with missing IDs" || echo "No changes to commit"
+        git push

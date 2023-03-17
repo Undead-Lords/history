@@ -1,0 +1,7 @@
+{ 
+    "eventName": "", //required: event title
+    "eventType": "", //required: matches with an EventType template in /types/ folder
+    "eventDate": "", //required: event date, format: mm-dd-yyyy
+    "eventShortDescription": "", //required short blurb for front page (not HTML friendly
+    "eventLongDescription": "" //optional long blurb for detailed view (HTML friendly
+}  

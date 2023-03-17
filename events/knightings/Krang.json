@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Krang", 
  "eventType": "Knighting", 
- "eventStartDate": "05-01-2012", 
- "eventEndDate": "", 
+ "eventDate": "05-01-2012", 
  "eventShortDescription": "Knighted May 2012 in Star Wars: The Old Republic", 
- "eventLongDescription": "",  
- "associatedKnights": [
-     "Krang"
- ], 
- "associatedGames": [
-     "Star Wars: The Old Republic"
- ] 
+ "eventLongDescription": ""
 }  

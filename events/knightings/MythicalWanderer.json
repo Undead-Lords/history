@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Mythical Wanderer", 
  "eventType": "Knighting", 
- "eventStartDate": "05-01-2014", 
- "eventEndDate": "", 
+ "eventDate": "05-01-2014", 
  "eventShortDescription": "Knighted May 2014 in Elder Scrolls Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Mythical Wanderer"
- ], 
- "associatedGames": [
-     "Elder Scrolls Online"
- ] 
+ "eventLongDescription": ""
 }  

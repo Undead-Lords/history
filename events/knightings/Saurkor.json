@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Saurkor", 
  "eventType": "Knighting", 
- "eventStartDate": "04-01-2014", 
- "eventEndDate": "", 
+ "eventDate": "04-01-2014", 
  "eventShortDescription": "Knighted January 2014 in Darkfall Unholy Wars", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Saurkor"
- ], 
- "associatedGames": [
-     "Darkfall Unholy Wars"
- ] 
+ "eventLongDescription": ""
 }  

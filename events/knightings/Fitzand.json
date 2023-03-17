@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Fitzand", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-2005", 
- "eventEndDate": "", 
+ "eventDate": "01-01-2005", 
  "eventShortDescription": "Knighted 2005 in World of Warcraft", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Fitzand"
- ], 
- "associatedGames": [
-     "World of Warcraft"
- ] 
+ "eventLongDescription": ""
 }  

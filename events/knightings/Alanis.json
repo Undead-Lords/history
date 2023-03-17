@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Alanis", 
  "eventType": "Knighting", 
- "eventStartDate": "04-01-2009", 
- "eventEndDate": "", 
+ "eventDate": "04-01-2009", 
  "eventShortDescription": "Knighted April 2009 in Darkfall", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Alanis"
- ], 
- "associatedGames": [
-     "Darkfall"
- ] 
+ "eventLongDescription": ""
 }  

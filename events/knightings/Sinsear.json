@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Sinsear", 
  "eventType": "Knighting", 
- "eventStartDate": "06-01-2000", 
- "eventEndDate": "", 
+ "eventDate": "06-01-2000", 
  "eventShortDescription": "Knighted June 2000 in Everquest", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Sinsear"
- ], 
- "associatedGames": [
-     "Everquest"
- ] 
+ "eventLongDescription": ""
 }  

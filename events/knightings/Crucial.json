@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Crucial", 
  "eventType": "Knighting", 
- "eventStartDate": "12-01-2012", 
- "eventEndDate": "", 
+ "eventDate": "12-01-2012", 
  "eventShortDescription": "Knighted December 2012 in Guild Wars 2", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Crucial"
- ], 
- "associatedGames": [
-     "Guild Wars 2"
- ] 
+ "eventLongDescription": ""
 }  

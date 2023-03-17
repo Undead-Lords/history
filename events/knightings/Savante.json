@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Savante", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-1997", 
- "eventEndDate": "", 
+ "eventDate": "01-01-1997", 
  "eventShortDescription": "Knighted 1997 in Ultima Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Savante"
- ], 
- "associatedGames": [
-     "Ultima Online"
- ] 
+ "eventLongDescription": ""
 }  

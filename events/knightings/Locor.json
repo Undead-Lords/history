@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Locor", 
  "eventType": "Knighting", 
- "eventStartDate": "06-01-2014", 
- "eventEndDate": "", 
+ "eventDate": "06-01-2014", 
  "eventShortDescription": "Knighted June 2014 in Elder Scrolls Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Locor"
- ], 
- "associatedGames": [
-     "Elder Scrolls Online"
- ] 
+ "eventLongDescription": ""
 }  

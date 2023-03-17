@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Sizmo", 
  "eventType": "Knighting", 
- "eventStartDate": "02-01-2015", 
- "eventEndDate": "", 
+ "eventDate": "02-01-2015", 
  "eventShortDescription": "Knighted 2015 in Archeage", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Sizmo"
- ], 
- "associatedGames": [
-     "Archeage"
- ] 
+ "eventLongDescription": ""
 }  

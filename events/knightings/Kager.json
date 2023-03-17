@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Kager", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-2009", 
- "eventEndDate": "", 
+ "eventDate": "01-01-2009", 
  "eventShortDescription": "Knighted 2009 in Darkfall", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Kager"
- ], 
- "associatedGames": [
-     "Darkfall"
- ] 
+ "eventLongDescription": ""
 }  

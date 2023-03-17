@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Thickness", 
  "eventType": "Knighting", 
- "eventStartDate": "10-01-2009", 
- "eventEndDate": "", 
+ "eventDate": "10-01-2009", 
  "eventShortDescription": "Knighted October 2009 in Darkfall", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Thickness"
- ], 
- "associatedGames": [
-     "Darkfall"
- ] 
+ "eventLongDescription": ""
 }  

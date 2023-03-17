@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lady Sachant", 
  "eventType": "Knighting", 
- "eventStartDate": "08-01-1999", 
- "eventEndDate": "", 
+ "eventDate": "08-01-1999", 
  "eventShortDescription": "Knighted August 1999 in Everquest", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Sachant"
- ], 
- "associatedGames": [
-     "Everquest"
- ] 
+ "eventLongDescription": ""
 }  

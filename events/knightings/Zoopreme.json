@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Zoopreme", 
  "eventType": "Knighting", 
- "eventStartDate": "08-01-2017", 
- "eventEndDate": "", 
+ "eventDate": "08-01-2017", 
  "eventShortDescription": "Knighted August 2017 in Albion Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Zoopreme"
- ], 
- "associatedGames": [
-     "Albion Online"
- ] 
+ "eventLongDescription": ""
 }  

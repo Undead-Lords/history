@@ -1,12 +1,7 @@
 { 
  "eventName": "Knighting of Lord Ranik", 
  "eventType": "Knighting", 
- "eventStartDate": "08-01-2021", 
- "eventEndDate": "", 
+ "eventDate": "08-01-2021", 
  "eventShortDescription": "Knighted August 2021 in Crowfall", 
- "eventLongDescription": "", 
- "associatedKnights": [], 
- "associatedGames": [
-     "Crowfall"
- ] 
+ "eventLongDescription": ""
 }  

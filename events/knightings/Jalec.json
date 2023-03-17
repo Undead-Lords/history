@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Jalec", 
  "eventType": "Knighting", 
- "eventStartDate": "02-01-2015", 
- "eventEndDate": "", 
+ "eventDate": "02-01-2015", 
  "eventShortDescription": "Knighted February 2015 in Archeage", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Jalec"
- ], 
- "associatedGames": [
-     "Archeage"
- ] 
+ "eventLongDescription": ""
 }  

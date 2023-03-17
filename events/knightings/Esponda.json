@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Esponda", 
  "eventType": "Knighting", 
- "eventStartDate": "03-01-2013", 
- "eventEndDate": "", 
+ "eventDate": "03-01-2013", 
  "eventShortDescription": "Knighted March 2013 in Guild Wars 2", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Esponda"
- ], 
- "associatedGames": [
-     "Guild Wars 2"
- ] 
+ "eventLongDescription": ""
 }  

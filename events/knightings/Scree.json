@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Scree", 
  "eventType": "Knighting", 
- "eventStartDate": "04-11-2021", 
- "eventEndDate": "", 
+ "eventDate": "04-11-2021", 
  "eventShortDescription": "Knighted April 2021 in Crowfall", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Scree"
- ], 
- "associatedGames": [
-     "Crowfall"
- ] 
+ "eventLongDescription": ""
 }  

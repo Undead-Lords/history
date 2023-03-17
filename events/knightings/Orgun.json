@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Orgun", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-2005", 
- "eventEndDate": "", 
+ "eventDate": "01-01-2005", 
  "eventShortDescription": "Knighted 2005 in City of Villians", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Orgun"
- ], 
- "associatedGames": [
-     "City of Villians"
- ] 
+ "eventLongDescription": ""
 }  

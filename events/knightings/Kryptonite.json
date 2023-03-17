@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Kryptonite", 
  "eventType": "Knighting", 
- "eventStartDate": "02-01-2010", 
- "eventEndDate": "", 
+ "eventDate": "02-01-2010", 
  "eventShortDescription": "Knighted February 2010 in Darkfall", 
- "eventLongDescription": "",  
- "associatedKnights": [
-     "Kryptonite"
- ], 
- "associatedGames": [
-     "Darkfall"
- ] 
+ "eventLongDescription": ""
 }  

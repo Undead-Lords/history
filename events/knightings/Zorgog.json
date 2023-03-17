@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Zorgog", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-2004", 
- "eventEndDate": "", 
+ "eventDate": "01-01-2004", 
  "eventShortDescription": "Knighted 2004 in Shadowbane", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Zorgog"
- ], 
- "associatedGames": [
-     "Shadowbane"
- ] 
+ "eventLongDescription": ""
 }  

@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Nubluk", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-1999", 
- "eventEndDate": "", 
+ "eventDate": "01-01-1999", 
  "eventShortDescription": "Knighted 1999 in Ultima Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Nubluk"
- ], 
- "associatedGames": [
-     "Ultima Online"
- ] 
+ "eventLongDescription": ""
 }  

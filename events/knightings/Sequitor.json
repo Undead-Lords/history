@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Sequitor", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-2016", 
- "eventEndDate": "", 
+ "eventDate": "01-01-2016", 
  "eventShortDescription": "Knighted January 2016 in Archeage", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Sequitor"
- ], 
- "associatedGames": [
-     "Archeage"
- ] 
+ "eventLongDescription": ""
 }  

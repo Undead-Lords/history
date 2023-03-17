@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Tourach", 
  "eventType": "Knighting", 
- "eventStartDate": "10-01-1999", 
- "eventEndDate": "", 
+ "eventDate": "10-01-1999", 
  "eventShortDescription": "Knighted October 1999 in Ultima Online", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Tourach"
- ], 
- "associatedGames": [
-     "Ultima Online"
- ] 
+ "eventLongDescription": ""
 }  

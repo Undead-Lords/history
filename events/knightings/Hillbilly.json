@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Hillbilly", 
  "eventType": "Knighting", 
- "eventStartDate": "11-01-2004", 
- "eventEndDate": "", 
+ "eventDate": "11-01-2004", 
  "eventShortDescription": "Knighted November 2004 in Shadowbane", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Hillbilly"
- ], 
- "associatedGames": [
-     "Shadowbane"
- ] 
+ "eventLongDescription": ""
 }  

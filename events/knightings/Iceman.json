@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Iceman", 
  "eventType": "Knighting", 
- "eventStartDate": "06-01-2012", 
- "eventEndDate": "", 
+ "eventDate": "06-01-2012", 
  "eventShortDescription": "Knighted June 2012 in Darkfall", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Iceman"
- ], 
- "associatedGames": [
-     "Darkfall"
- ] 
+ "eventLongDescription": ""
 }  

@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Stab", 
  "eventType": "Knighting", 
- "eventStartDate": "01-01-2002", 
- "eventEndDate": "", 
+ "eventDate": "01-01-2002", 
  "eventShortDescription": "Knighted 2002 in Dark Age of Camelot", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Stab"
- ], 
- "associatedGames": [
-     "Dark Age of Camelot"
- ] 
+ "eventLongDescription": ""
 }  

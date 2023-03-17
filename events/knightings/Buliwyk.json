@@ -1,14 +1,7 @@
 { 
  "eventName": "Knighting of Lord Buliwyk", 
  "eventType": "Knighting", 
- "eventStartDate": "12-01-2000", 
- "eventEndDate": "", 
+ "eventDate": "12-01-2000", 
  "eventShortDescription": "Knighted December 2000 in Everquest", 
- "eventLongDescription": "", 
- "associatedKnights": [
-     "Buliwyk"
- ], 
- "associatedGames": [
-     "Everquest"
- ] 
+ "eventLongDescription": ""
 }  

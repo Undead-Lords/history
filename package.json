@@ -1,0 +1,8 @@
+{
+   "name": "The History of the Undead Lords",
+   "version": "1.0.0",
+   "private": true,
+   "scripts": {
+     "update-json-ids": "node update_json_ids.js"
+   }
+ }
