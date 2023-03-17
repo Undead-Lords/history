@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Kager", 
- "eventType": "Knighting", 
- "eventDate": "01-01-2009", 
- "eventShortDescription": "Knighted 2009 in Darkfall", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Kager",
+  "eventType": "Knighting",
+  "eventDate": "01-01-2009",
+  "eventShortDescription": "Knighted 2009 in Darkfall",
+  "eventLongDescription": "",
+  "id": "dd9tYnUPZ7"
+}

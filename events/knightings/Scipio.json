@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Scipio", 
- "eventType": "Knighting", 
- "eventDate": "11-01-2018", 
- "eventShortDescription": "Knighted November 2018 in Crowfall", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Scipio",
+  "eventType": "Knighting",
+  "eventDate": "11-01-2018",
+  "eventShortDescription": "Knighted November 2018 in Crowfall",
+  "eventLongDescription": "",
+  "id": "WgJzOpfaOr"
+}
