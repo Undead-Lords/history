@@ -1,4 +1,4 @@
-name: Update JSON IDs
+name: Scan and Install IDs
 
 on:
   push:
@@ -10,25 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Check out repository
-      uses: actions/checkout@v2
+    - name: Check Out Repository
+      uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
+    - name: Setup Node
+      uses: actions/setup-node@v3
       with:
-        node-version: 16
+        node-version: '15.x'
+        cache: 'npm'
 
-    - name: Install dependencies
-      run: if [ -e package-lock.json ]; then
-          npm ci
-          else
-          npm i
-          fi
+    - name: Install Dependencies
+      run: npm install
 
-    - name: Update JSON IDs
+    - name: Run ID Generation
       run: node update_json_ids.js
 
-    - name: Commit and push changes
+    - name: Commit and Push Updates
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
