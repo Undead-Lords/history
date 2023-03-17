@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Drannon", 
- "eventType": "Knighting", 
- "eventDate": "01-01-1998", 
- "eventShortDescription": "Knighted 1998 in Ultima Online", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Drannon",
+  "eventType": "Knighting",
+  "eventDate": "01-01-1998",
+  "eventShortDescription": "Knighted 1998 in Ultima Online",
+  "eventLongDescription": "",
+  "id": "Cuz2NBGtpE"
+}

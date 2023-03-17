@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Zionis", 
- "eventType": "Knighting", 
- "eventDate": "01-01-2008", 
- "eventShortDescription": "Knighted 2008 in Warhammer Online", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Zionis",
+  "eventType": "Knighting",
+  "eventDate": "01-01-2008",
+  "eventShortDescription": "Knighted 2008 in Warhammer Online",
+  "eventLongDescription": "",
+  "id": "dSoRFrLthC"
+}

@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Moog", 
- "eventType": "Knighting", 
- "eventDate": "01-01-2002", 
- "eventShortDescription": "Knighted January 2002 in Ultima Online", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Moog",
+  "eventType": "Knighting",
+  "eventDate": "01-01-2002",
+  "eventShortDescription": "Knighted January 2002 in Ultima Online",
+  "eventLongDescription": "",
+  "id": "ggv0zU88Eb"
+}

@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Ranik", 
- "eventType": "Knighting", 
- "eventDate": "08-01-2021", 
- "eventShortDescription": "Knighted August 2021 in Crowfall", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Ranik",
+  "eventType": "Knighting",
+  "eventDate": "08-01-2021",
+  "eventShortDescription": "Knighted August 2021 in Crowfall",
+  "eventLongDescription": "",
+  "id": "bG4SLDg33h"
+}

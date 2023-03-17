@@ -1,7 +1,8 @@
-{ 
- "eventName": "Knighting of Lord Xymox", 
- "eventType": "Knighting", 
- "eventDate": "01-01-1997", 
- "eventShortDescription": "Knighted 1997 in Ultima Online", 
- "eventLongDescription": ""
-}  
+{
+  "eventName": "Knighting of Lord Xymox",
+  "eventType": "Knighting",
+  "eventDate": "01-01-1997",
+  "eventShortDescription": "Knighted 1997 in Ultima Online",
+  "eventLongDescription": "",
+  "id": "lz01imaPA2"
+}
