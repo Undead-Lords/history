@@ -1,8 +1,9 @@
 {
-    "eventName": "Diablo IV",
-    "eventType": "Campaign",
-    "eventDate": "6-1-2023",
-    "eventShortDescription": "The Undead Lords begin a campaign into Diablo IV, in Myrkuls Name, on June the 1st, 2023.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Diablo IV",
+  "eventType": "Campaign",
+  "eventDate": "6-1-2023",
+  "eventShortDescription": "The Undead Lords begin a campaign into Diablo IV, in Myrkuls Name, on June the 1st, 2023.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "kuH6sMQ7pv"
+}

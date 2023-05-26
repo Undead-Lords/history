@@ -1,8 +1,9 @@
 {
-    "eventName": "Last Oasis",
-    "eventType": "Campaign Ends",
-    "eventDate": "8-25-2020",
-    "eventShortDescription": "The Undead Lords end its campaign in Last Oasis, on August the 25th, 2020.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Last Oasis",
+  "eventType": "Campaign Ends",
+  "eventDate": "8-25-2020",
+  "eventShortDescription": "The Undead Lords end its campaign in Last Oasis, on August the 25th, 2020.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "lIvLgzrAPO"
+}

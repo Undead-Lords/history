@@ -1,8 +1,9 @@
 {
-    "eventName": "Archeage (Aranzeb)",
-    "eventType": "Campaign Ends",
-    "eventDate": "11-30-2015",
-    "eventShortDescription": "The Undead Lords end its campaign in Archeage, on the Aranzeb server, on November the 30th, 2015.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Archeage (Aranzeb)",
+  "eventType": "Campaign Ends",
+  "eventDate": "11-30-2015",
+  "eventShortDescription": "The Undead Lords end its campaign in Archeage, on the Aranzeb server, on November the 30th, 2015.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "T7w16IauPw"
+}

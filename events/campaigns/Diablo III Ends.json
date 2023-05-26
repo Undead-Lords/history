@@ -1,8 +1,9 @@
 {
-    "eventName": "Diablo III",
-    "eventType": "Campaign Ends",
-    "eventDate": "8-30-2012",
-    "eventShortDescription": "The Undead Lords end its campaign in Diablo III, on August the 30th, 2012.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Diablo III",
+  "eventType": "Campaign Ends",
+  "eventDate": "8-30-2012",
+  "eventShortDescription": "The Undead Lords end its campaign in Diablo III, on August the 30th, 2012.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "uiEhCcf40B"
+}

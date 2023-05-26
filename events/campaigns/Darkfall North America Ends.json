@@ -1,8 +1,9 @@
 {
-    "eventName": "Darkfall (North America)",
-    "eventType": "Campaign Ends",
-    "eventDate": "11-31-2012",
-    "eventShortDescription": "The Undead Lords end its campaign in Darkfall, on the North America server, on November the 31st, 2012.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Darkfall (North America)",
+  "eventType": "Campaign Ends",
+  "eventDate": "11-31-2012",
+  "eventShortDescription": "The Undead Lords end its campaign in Darkfall, on the North America server, on November the 31st, 2012.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "tyN9Svy0Sy"
+}

@@ -1,8 +1,9 @@
 {
-    "eventName": "Star Wars Galaxies",
-    "eventType": "Campaign Ends",
-    "eventDate": "11-1-2004",
-    "eventShortDescription": "The Undead Lords end its campaign in Star Wars Galaxies, on November the 1st, 2004.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Star Wars Galaxies",
+  "eventType": "Campaign Ends",
+  "eventDate": "11-1-2004",
+  "eventShortDescription": "The Undead Lords end its campaign in Star Wars Galaxies, on November the 1st, 2004.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "SZqhlrQLus"
+}

@@ -1,8 +1,9 @@
 {
-    "eventName": "Albion Online (Alpha)",
-    "eventType": "Campaign",
-    "eventDate": "11-1-2015",
-    "eventShortDescription": "The Undead Lords begin a campaign into Albion Online, on the Alpha server, in Myrkuls Name, on November the 1st, 2015.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Albion Online (Alpha)",
+  "eventType": "Campaign",
+  "eventDate": "11-1-2015",
+  "eventShortDescription": "The Undead Lords begin a campaign into Albion Online, on the Alpha server, in Myrkuls Name, on November the 1st, 2015.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "iPsgZaehtI"
+}

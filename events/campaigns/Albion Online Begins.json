@@ -1,8 +1,9 @@
 {
-    "eventName": "Albion Online",
-    "eventType": "Campaign",
-    "eventDate": "7-17-2017",
-    "eventShortDescription": "The Undead Lords begin a campaign into Albion Online, in Myrkuls Name, on July the 17th, 2017.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Albion Online",
+  "eventType": "Campaign",
+  "eventDate": "7-17-2017",
+  "eventShortDescription": "The Undead Lords begin a campaign into Albion Online, in Myrkuls Name, on July the 17th, 2017.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "ndLszsUcKR"
+}

@@ -1,8 +1,9 @@
 {
-    "eventName": "Conqueror's Blade (NA): First Wave",
-    "eventType": "Campaign",
-    "eventDate": "5-30-2019",
-    "eventShortDescription": "The Undead Lords begin a campaign into Conqueror's Blade, on the North America server, in Myrkuls Name, on May the 30th, 2019.",
-    "eventLongDescription": "",
-    "eventImage": ""
-  }
+  "eventName": "Conqueror's Blade (NA): First Wave",
+  "eventType": "Campaign",
+  "eventDate": "5-30-2019",
+  "eventShortDescription": "The Undead Lords begin a campaign into Conqueror's Blade, on the North America server, in Myrkuls Name, on May the 30th, 2019.",
+  "eventLongDescription": "",
+  "eventImage": "",
+  "id": "tEeWb8XdRI"
+}
